@@ -1,0 +1,39 @@
+
+.corosol{
+    float: left;
+    height: 200px;
+    width: 70%;
+    padding: 2%;
+    position: absolute;
+    
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1);
+}
+.carousel-indicators .active {
+    background-color: black; 
+}
+.details{
+    float: right;
+    position: relative;
+    margin-top: 8%;
+    margin-right: 15%;
+    border: solid black 3px;
+    height: 340px;
+    width: 400px;
+    border-radius: 10px;
+    padding: 3%;
+    padding-top: 3%;
+    background-color: white;
+}
+
+
+
+.backbutton Button{
+    position: absolute;
+    bottom: 10%;
+    height: 50px;
+    width: 120px;
+    margin-left: 50%;
+}

@@ -1,0 +1,21 @@
+.contactcontent{
+margin-top: 3%;
+margin-left: 23%;
+height: 640px;
+width: 830px;
+border: solid 0.1px black;
+padding-left:2% ;
+padding-top: 1%;
+background-color: whitesmoke;
+border-radius:6px;
+transition: height 0.3s ease;
+}
+
+.contactcontent input{
+    height: 50px;
+    width: 90%;
+
+}
+.contactcontent.with-errors {
+    height: 740px;
+  }

@@ -1,0 +1,13 @@
+.logoutcontent button{
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color: rgb(151, 71, 151);
+    width: 90px ;
+    height: 40px;
+}
+
+.logoutcontent{
+    margin-top: 5%;
+    background-color: white;
+    
+}

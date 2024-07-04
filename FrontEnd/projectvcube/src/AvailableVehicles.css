@@ -1,0 +1,22 @@
+.avibuttons Button{
+    width: 100px;
+    height: 40px ;
+    margin: 10px;
+}
+
+.avibuttons{
+    position: absolute;
+    cursor: pointer;
+    bottom: 50px;
+    margin-left: 35%;
+}
+
+.avibuttons span:hover {
+    color: #000000; 
+    text-decoration: underline; 
+  }
+.currentPage {
+  color: #000000; 
+  text-decoration: underline; 
+  }
+  

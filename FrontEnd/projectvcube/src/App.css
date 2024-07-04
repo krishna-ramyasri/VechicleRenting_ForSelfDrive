@@ -1,0 +1,30 @@
+
+.app {
+  position: absolute;
+  
+}
+.bg-body-tertiary{
+  margin-top:10px ;
+}
+
+body{
+  background-image: url('./images/company\ log-safeimagekit.jpeg');
+  background-repeat: repeat;
+  background-size: 300px 300px;
+  opacity: 1.0;
+}
+
+.navbar a {
+  transition: all 0.3s ease;
+}
+
+.d-flex a:hover {
+  background-color: aliceblue;
+  border-radius: 6px;
+  height: 40px; 
+}
+
+.nav-item :hover{
+  background-color: aliceblue;
+  border-radius: 6px;
+}

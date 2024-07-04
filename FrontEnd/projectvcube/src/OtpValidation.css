@@ -1,0 +1,27 @@
+#container{
+    border: solid #3C009d 2px;
+    border-radius: 10px;
+    top: 30%;
+    left: 50%;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    height: 220px;
+    width: 550px;
+    padding-top: 20px;
+    background-color: white;
+    
+}
+#container input{
+    width: 80%;
+    height: 40px;
+
+}
+
+h3{
+    color: #3C009d;
+}
+
+#buttons{
+    float: right;
+    margin-right: 55px;
+}

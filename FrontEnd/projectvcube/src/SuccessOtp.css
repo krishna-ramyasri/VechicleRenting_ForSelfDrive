@@ -1,0 +1,18 @@
+.success{
+    margin-top: 8%;
+    height: 550px;
+    border: solid 3px #3C009d;
+    width: 380px;
+    padding: 20px;
+    border-radius: 5px;
+    padding-top: 30px;
+    top: 40%;
+    left: 50%;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    background-color: white;
+}
+.success input{
+    width: 95%;
+    height: 40px;
+}
